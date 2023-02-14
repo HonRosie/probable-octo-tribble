@@ -1,0 +1,4 @@
+# Ignore db files
+*.db*
+venv/
+.DS_Store
